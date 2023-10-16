@@ -21,7 +21,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * No prompt da paleta de comandos, insira <b>gitcl</b>, selecione o comando Git: <b>Clone</b> e pressione <b>Enter</b>.
 * Quando for solicitada a URL do Repositório, selecione Clonar do GitHub e pressione <b>Enter</b>.
 * Se for solicitado que você entre no GitHub, conclua o processo de entrada.
-* Insira https://github.com/GABRIEL-ASSYS/Calculadora-de-Combust-vel no campo URL do Repositório.
+* Insira https://github.com/GABRIEL-ASSYS/Calculadora-de-Combustivel no campo URL do Repositório.
 * Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
 * Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio, caso ainda não tenha usado o Node.js executar o comando ```npm install```,  depois de instalado executar ```npm start```, e ele abrirá uma aba em seu navegador padrão.
